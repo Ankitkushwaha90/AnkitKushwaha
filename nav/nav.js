@@ -19,7 +19,7 @@ const navcssData = `
 		</div>
 
 		<div class="ulcss3">
-			<a class="Webdesign" href="../Webdesign/nav_bar.html">Webdesign</a>
+			<a class="Webdesign" href="../webdesign/nav_bar.html">Webdesign</a>
 			<a class="htmlactive" href="../HTML/introduction.html">HTML</a>
 			<a class="cssactive" href="../CSS/introduction.html">CSS</a>
 			<a class="JAVASCRIPTactive" href="../JAVASCRIPT/introduction.html">JAVASCRIPT</a>
