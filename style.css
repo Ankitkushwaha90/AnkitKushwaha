@@ -5,7 +5,7 @@
 .container-background{
 	margin: 0px;
 	padding: 0px;
-	background: gray;
+	background: rgb(29, 124, 124);
 	display: grid;
 	place-items: center;
 	width: 100%;
