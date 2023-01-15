@@ -24,7 +24,7 @@ const insubData = `
 						<a class="div1subc Operatorshtml"  href="operators.html">Operators</a>
 						<a class="div1subc functionhtml"  href="function.html">Function</a>
 						<a class="div1subc Whileloop"  href="whileloop.html">While_loop</a>
-						<a class="div1subc doWhileloop"  href="dowhile.html">do_While_loop</a>
+						<a class="div1subc doWhileloop"  href="dowhile.html">do_While</a>
 						<a class="div1subc switchhtml"  href="switch.html">Switch</a>
 						<a class="div1subc Arrays"  href="Arrays.html">Arrays</a> 
   	
